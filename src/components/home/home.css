@@ -16,17 +16,17 @@
 
 .home__social-icon {
     font-size: 1.25rem;
-    color: var(--title-color);
+    color: var(--text-color);
 }
 
 .home__social-icon:hover {
-    color: var(--infp-color);
+    color: var(--title-color-dark);
 }
 
 .home__title {
     font-size: var(--my-name-font-size);
     margin-bottom: var(--mb-0-25);
-    color: var(--infp-color);
+    color: var(--text-color);
 }
 
 .home__subtitle {
@@ -35,7 +35,7 @@
     padding-left: 5.4rem;
     font-weight: var(--font-normal);
     margin-bottom: var(--mb-0-25);
-    color: var(--infp-color); 
+    color: var(--text-color); 
 }
 
 .home__subtitle::before {
@@ -43,7 +43,7 @@
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: var(--infp-color);
+    background-color: var(--text-color);
     left: 0;
     top: 1rem;
 }
@@ -54,7 +54,7 @@
 }
 
 .home__img {
-    background: url(../../assets//infp.png);
+    background: url(../../assets//passport_pic.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
