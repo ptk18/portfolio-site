@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.5960e5bc.css",
+    "main.js": "/portfolio-site/static/js/main.5e198772.js",
+    "static/js/488.095f03e0.chunk.js": "/portfolio-site/static/js/488.095f03e0.chunk.js",
+    "static/media/music_streaming_app.png": "/portfolio-site/static/media/music_streaming_app.5d3dd2bcce2a6f67c220.png",
+    "static/media/safety_app.png": "/portfolio-site/static/media/safety_app.ee0ac91bb46041964b22.png",
+    "static/media/myfluffy.png": "/portfolio-site/static/media/myfluffy.063ed1ec0afc6734cbed.png",
+    "static/media/maintenace_report.png": "/portfolio-site/static/media/maintenace_report.ab9e37a5f33eb3ca4e35.png",
+    "static/media/end_to_end.png": "/portfolio-site/static/media/end_to_end.e3a8bf696b95d4be690f.png",
+    "static/media/portfolio_ver1.png": "/portfolio-site/static/media/portfolio_ver1.96f938b597573076b866.png",
+    "static/media/book_finder.png": "/portfolio-site/static/media/book_finder.d75a9fc5a8bdd07d4195.png",
+    "static/media/book_recommendation_sys.jpg": "/portfolio-site/static/media/book_recommendation_sys.622b5035bacc4826a51e.jpg",
+    "static/media/utycc_campus.png": "/portfolio-site/static/media/utycc_campus.ea051dc557da186d208c.png",
+    "static/media/blackjack.png": "/portfolio-site/static/media/blackjack.346aede8eb92e7b62ea1.png",
+    "static/media/passport_pic.jpg": "/portfolio-site/static/media/passport_pic.349b399319f11f1fefb0.jpg",
+    "static/media/forum.png": "/portfolio-site/static/media/forum.e618df42171d44f1245b.png",
+    "static/media/checkers.png": "/portfolio-site/static/media/checkers.710bc5fccd781f86224b.png",
+    "static/media/quiz_generator.png": "/portfolio-site/static/media/quiz_generator.916a920aead1c1ecb813.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.5960e5bc.css.map": "/portfolio-site/static/css/main.5960e5bc.css.map",
+    "main.5e198772.js.map": "/portfolio-site/static/js/main.5e198772.js.map",
+    "488.095f03e0.chunk.js.map": "/portfolio-site/static/js/488.095f03e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5960e5bc.css",
+    "static/js/main.5e198772.js"
+  ]
+}
