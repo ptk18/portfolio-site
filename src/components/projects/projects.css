@@ -27,22 +27,32 @@
 }
 
 .work__card {
+    max-width: 350px;
     background-color: var(--container-color);
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 1.25rem;
     border-radius: 1rem;
+    text-align: center;
 }
 
 .work__img {
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+    max-height: 235px;
+}
+.work__img-bigger {
+    width: auto;
+    border-radius: 1rem;
+    margin-bottom: var(--mb-1);
+    max-height: 330px;
 }
 
 .work__title {
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-0-5);
+    text-align: left;
 }
 
 .work__button {
