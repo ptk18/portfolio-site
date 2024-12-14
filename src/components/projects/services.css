@@ -151,10 +151,17 @@
     .services__modal-content {
         width: 90%;
         padding: 2rem 1.5rem 1.5rem;
+        
+    }
+    .services__modal-description {
+        max-height: 150px;
     }
 
     .services__modal-description, .services__modal-project-link, .services__modal-techStack-container {
         padding: 0;
+    }
+    .services__modal-techStack {
+        text-align: left;
     }
     .services__modal-close{
         top: 0.2rem;;

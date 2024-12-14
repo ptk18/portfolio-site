@@ -65,7 +65,7 @@ export const projectsData = [
     {
         id: 6,
         image: Project6,
-        title: 'AI Safety Assistant App',
+        title: 'Maintenance Report System',
         category: 'Web',
         techStack : 'Python, Django, MySQL',
         description: 'This project is an issue reporting website developed using Python, Django, and JavaScript, serving over 100 users. It features real-time dashboards and data visualizations, which reduce manual reporting time by 40% and significantly improve issue resolution efficiency. The application enhances user experience by streamlining the reporting process and providing actionable insights.',
@@ -150,7 +150,6 @@ export const projectsData = [
         techStack : 'Naive Bayes, Classification, Confusion Matrix',
         description: 'This project’s objectives include exploring the relationship between demographic factors and reading preferences, assessing the effectiveness of demographic-based recommendations, and providing an alternative approach to conventional recommendation systems. We hope that our findings will not only support a more personalized reading experience but also contribute to advancing methods in recommendation systems by showcasing the potential of demographic-based personalization.',
         githublink: 'https://github.com/ptk18/Book-Recommendation-DS-Project-/tree/main',
-
     },
 
 
@@ -168,9 +167,6 @@ export const projectsNav = [
     },
     {
         name: 'AI',
-    },
-    {
-        name: 'ML',
     },
     {
         name: 'DS',
