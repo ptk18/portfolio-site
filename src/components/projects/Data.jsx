@@ -139,7 +139,7 @@ export const projectsData = [
         category: 'Web',
         techStack : 'HTML, CSS, JavaScript',
         description: 'This project is a responsive website created using HTML, CSS, and JavaScript, showcasing my expertise in front-end UI design with smooth and intuitive animations. The site provides comprehensive information about me, effectively highlighting my skills, projects, and achievements to create a professional online presence.',
-        githublink: 'https://github.com/ptk18/Portfolio',
+        githublink: 'https://ptk18.github.io/Portfolio',
 
     },
     {
