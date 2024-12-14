@@ -16,8 +16,8 @@ const About = () => {
                     <Info />
                     <p className="about__description">Just a chill girl who codes by day and plays guitar by… well, whenever the mood strikes ^^ I’m all about finding joy in the little things—like spotting a cute bug (I say only cute bugs :3). Daydreaming and imagining new possibilities? That’s just my second nature.</p>
                 
-                    <a download="" href="https://drive.google.com/file/d/1oTTTeIE--KgrU5vLtAyaSlOQSYK1jiOY/view?usp=sharing" className="button button--flex">
-                        View my resume
+                    <a download="" href="https://drive.google.com/file/d/1060HvjY1NMOWOLQfhqdw6Wlrfu1y8z5o/view?usp=sharing" className="button button--flex">
+                        View My CV
 
                     </a>
                 </div>
