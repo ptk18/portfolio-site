@@ -12,6 +12,7 @@ import Project11 from "../../assets/utycc_campus.png";
 import Project12 from "../../assets/end_to_end.png";
 import Project13 from "../../assets/portfolio_ver1.png";
 import Project14 from "../../assets/book_recommendation_sys.jpg";
+import Project15 from "../../assets/compiler_construction.png";
 
 export const projectsData = [
     {
@@ -151,7 +152,15 @@ export const projectsData = [
         description: 'This project’s objectives include exploring the relationship between demographic factors and reading preferences, assessing the effectiveness of demographic-based recommendations, and providing an alternative approach to conventional recommendation systems. We hope that our findings will not only support a more personalized reading experience but also contribute to advancing methods in recommendation systems by showcasing the potential of demographic-based personalization.',
         githublink: 'https://github.com/ptk18/Book-Recommendation-DS-Project-/tree/main',
     },
-
+    {
+        id: 15,
+        image: Project15,
+        title: 'Compiler Construction Project',
+        category: 'App',
+        techStack : 'Python, PLY',
+        description: 'This project implements a basic compiler that processes input code through several stages: lexical analysis, parsing, and code generation. The final output is assembly code.',
+        githublink: 'https://github.com/ptk18/CompilerConstructionProject',
+    },
 
 ];
 
