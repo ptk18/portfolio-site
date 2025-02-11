@@ -172,10 +172,9 @@
 }
   
 /* For small devices*/
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     .home__title {
         font-size: var(--h2-font-size);
-        color: red;
     }
     .home__img{
         width: 180px;
