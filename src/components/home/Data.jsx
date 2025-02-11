@@ -6,7 +6,7 @@ const Data = () => {
             <h1 className="home__title">Phyo Thi Khaing</h1>
             <h3 className="home__subtitle">Software Engineer</h3>
             <p className="home__description">
-            I'm forging my path in software engineering at King Mongkut's Institute of Technology Ladkrabang(KMITL) Thailand, where I was awarded a full merit scholarship. Now in my junior year, I'm part of an elite cohort combining world-class technical education with multicultural perspectives at one of Thailand's leading technology institutes.
+            I'm forging my path in software engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand, where I was awarded a full merit scholarship and am currently in my junior year.
             </p>
         </div>
     );
