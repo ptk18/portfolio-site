@@ -30,7 +30,7 @@ const Info = () => {
                                 <p className="services__modal-info">
                                     <h3 className="about__title">King Mongkut's Institute of Technology LatKrabang, Thailand</h3>
                                     <span className="about__subtitle">B.Eng. Software Engineering (Specializing in Artificial Intelligence)</span><br />
-                                    <span className="about__subtitle">Aug 2021 - Present</span>
+                                    <span className="about__subtitle">Aug 2022 - Present</span>
                                 </p>
                                 
                             </li>
