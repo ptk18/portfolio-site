@@ -46,9 +46,9 @@ const Contact = () => {
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Line</h3>
-                            <span className="contact__card-data">freyajames18</span>
+                            <span className="contact__card-data">freyajames182</span>
 
-                            <a href="https://line.me/R/ti/p/~freyajames18" className="contact__button">
+                            <a href="https://line.me/ti/p/ir8_abxYxF" className="contact__button">
                                 Text me <i className='bx bx-right-arrow-alt contact__button-icon'></i>
                             </a>
 
