@@ -12,7 +12,7 @@ const Info = () => {
             <div className="about__box">
                 <i class="uil uil-graduation-cap about__icon"></i>
                 <h3 className="about__title">Education</h3>
-                <span className="about__subtitle">year 3</span>
+                <span className="about__subtitle">senior-year</span>
                 <br />
                 <span className="about__details__button" onClick={() => toggleTab(1)}>View More<i className="uil uil-arrow-right about__details__button-icon"></i></span>
                 <div className={toggleState === 1 ? "services__modal active-modal" : "services__modal"}>
@@ -52,7 +52,7 @@ const Info = () => {
             <div className="about__box">
                 <i class="bx bx-briefcase-alt about__icon"></i>
                 <h3 className="about__title">Experience</h3>
-                
+                <span className="about__subtitle">4+</span>
                 <br />
                 <span className="about__details__button" onClick={() => toggleTab(2)}>View More<i className="uil uil-arrow-right about__details__button-icon"></i></span>
                 <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
@@ -66,9 +66,19 @@ const Info = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
+                                    <h3 className="about__title">Data Scientist (Intern)</h3>
+                                    <span className="about__subtitle">PropTech Builders</span><br />
+                                    <span className="about__subtitle">Apr 2025 - Present</span>
+                                </p>
+                                
+                            </li>
+                            <br />
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
                                     <h3 className="about__title">Teaching Assitant</h3>
                                     <span className="about__subtitle">Software Engineering Principle Course, Software Engineering, KMITL</span><br />
-                                    <span className="about__subtitle">Dec 2024 - Present</span>
+                                    <span className="about__subtitle">Dec 2024 - Mar 2025</span>
                                 </p>
                                 
                             </li>
@@ -90,6 +100,17 @@ const Info = () => {
                                     <h3 className="about__title">Teaching Assitant</h3>
                                     <span className="about__subtitle">Introduction To Logic Course, Software Engineering, KMITL</span><br />
                                     <span className="about__subtitle">Jul 2023 - Nov 2023</span>
+                                </p>
+                                
+                            </li>
+                            <br />
+
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
+                                    <h3 className="about__title">English Language Teaching Assitant</h3>
+                                    <span className="about__subtitle">Teacher Su International School, Myanmar</span><br />
+                                    <span className="about__subtitle">May 202 - May 2023</span>
                                 </p>
                                 
                             </li>
