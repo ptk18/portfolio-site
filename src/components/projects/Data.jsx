@@ -13,6 +13,8 @@ import Project12 from "../../assets/end_to_end.png";
 import Project13 from "../../assets/portfolio_ver1.png";
 import Project14 from "../../assets/book_recommendation_sys.jpg";
 import Project15 from "../../assets/compiler_construction.png";
+import Project16 from "../../assets/javis2.jpg";
+
 
 export const projectsData = [
     {
@@ -160,6 +162,15 @@ export const projectsData = [
         techStack : 'Python, PLY',
         description: 'This project implements a basic compiler that processes input code through several stages: lexical analysis, parsing, and code generation. The final output is assembly code.',
         githublink: 'https://github.com/ptk18/CompilerConstructionProject',
+    },
+    {
+        id: 16,
+        image: Project16,
+        title: 'JAVIS: Voice-driven Coding Assistant',
+        category: 'AI',
+        techStack : 'Python, Nextjs, FastAPI, SQLite, HuggingFace CodeLlama, Prolog',
+        description: 'JAVIS is an intelligent voice-driven coding assistant inspired by the concept of JARVIS from Marvel’s Ironman. It takes code inputs and converts them into human-friendly commands. Users can then use commands to perform specific tasks, making coding more intuitive and interactive.',
+        githublink: 'https://github.com/ptk18/JAVIS_teamprj',
     },
 
 ];
