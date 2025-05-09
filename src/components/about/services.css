@@ -65,6 +65,8 @@
     background-color: var(--container-color);
     padding: 3rem 2.5rem 2.5rem;
     border-radius: 1.5rem;
+    
+
 }
 
 .services__modal-close {
@@ -94,7 +96,10 @@
 }
 
 .services__modal-services {
-    row-gap: 0.75rem;
+    row-gap: 0.65rem;
+    height: 380px;
+    overflow-y: scroll; 
+    
 }
 
 .services__modal-service {
@@ -125,6 +130,13 @@
     .services__modal-content {
         width: 500px;
         padding: 2rem 1.5rem 1.5rem;
+        overflow-y: scroll;        
+    }
+
+    .services__modal-services {
+        row-gap: 0.5rem;
+        height: 380px;
+        overflow-y: scroll;        
     }
 
     .services__modal-description {
