@@ -99,6 +99,7 @@
     row-gap: 0.65rem;
     height: 380px;
     overflow-y: scroll; 
+    scrollbar-width: none;
     
 }
 
