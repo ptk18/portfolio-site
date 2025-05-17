@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.34db499d.css",
-    "main.js": "/portfolio-site/static/js/main.1688e505.js",
+    "main.js": "/portfolio-site/static/js/main.a1757fec.js",
     "static/js/488.462d725c.chunk.js": "/portfolio-site/static/js/488.462d725c.chunk.js",
     "static/media/music_streaming_app.png": "/portfolio-site/static/media/music_streaming_app.5d3dd2bcce2a6f67c220.png",
     "static/media/safety_app.png": "/portfolio-site/static/media/safety_app.ee0ac91bb46041964b22.png",
@@ -22,13 +22,11 @@
     "static/media/forum.png": "/portfolio-site/static/media/forum.e618df42171d44f1245b.png",
     "static/media/svelte.png": "/portfolio-site/static/media/svelte.92cf27ed1cbcb0e278df.png",
     "static/media/gpaSimulator.png": "/portfolio-site/static/media/gpaSimulator.33a1b58b5eb5be632ac7.png",
-    "static/media/rust.png": "/portfolio-site/static/media/rust.de3afb0a6707520f73ea.png",
     "static/media/javis2.jpg": "/portfolio-site/static/media/javis2.9b7a35b283553a2da814.jpg",
     "static/media/checkers.png": "/portfolio-site/static/media/checkers.710bc5fccd781f86224b.png",
     "static/media/huggingface.png": "/portfolio-site/static/media/huggingface.e5351cbc3c2ce55c1f3a.png",
     "static/media/tensorflow.png": "/portfolio-site/static/media/tensorflow.9b7fdd4bc8169e76149e.png",
     "static/media/quiz_generator.png": "/portfolio-site/static/media/quiz_generator.916a920aead1c1ecb813.png",
-    "static/media/javascript.png": "/portfolio-site/static/media/javascript.f7ca943f4778d025ca37.png",
     "static/media/nltk.png": "/portfolio-site/static/media/nltk.86f8abc4aa0c0f5c7098.png",
     "static/media/opencv.png": "/portfolio-site/static/media/opencv.74a0292658708036382d.png",
     "static/media/git.png": "/portfolio-site/static/media/git.d45f1900d8999721399f.png",
@@ -47,11 +45,11 @@
     "static/media/figma.png": "/portfolio-site/static/media/figma.2765830775b79febf3a6.png",
     "index.html": "/portfolio-site/index.html",
     "main.34db499d.css.map": "/portfolio-site/static/css/main.34db499d.css.map",
-    "main.1688e505.js.map": "/portfolio-site/static/js/main.1688e505.js.map",
+    "main.a1757fec.js.map": "/portfolio-site/static/js/main.a1757fec.js.map",
     "488.462d725c.chunk.js.map": "/portfolio-site/static/js/488.462d725c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34db499d.css",
-    "static/js/main.1688e505.js"
+    "static/js/main.a1757fec.js"
   ]
 }
