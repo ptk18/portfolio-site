@@ -2,8 +2,8 @@ import React from 'react';
 import pythonImg from "../../assets/python.png";
 import javaImg from "../../assets/java.png";
 import cppImg from "../../assets/cpp.png";
-import jsImg from "../../assets/javascript.png";
-import rustImg from "../../assets/rust.png";
+import gitImg from "../../assets/git.png";
+import dockerImg from "../../assets/docker.png";
 import djImg from "../../assets/django.png";
 import fastApiImg from "../../assets/fastapi.png";
 import mySqlImg from "../../assets/mySql.png";
@@ -38,13 +38,13 @@ const Backend = () => {
             <div className="skills__group">
                 <div className="skills__data">
                     <div>
-                        <img src={jsImg} alt="" className="tech_stack_Img" width="40" height="40" />
+                        <img src={dockerImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
                 <div className="skills__data">
                     <div>
-                        <img src={rustImg} alt="" className="tech_stack_Img" width="40" height="40" />
+                        <img src={gitImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
