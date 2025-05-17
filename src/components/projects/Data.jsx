@@ -179,7 +179,7 @@ export const projectsData = [
         image: Project17,
         title: 'KMITL GPA Simulator',
         category: 'Web',
-        techStack : 'Python, Nextjs, FastAPI, SQLite, HuggingFace CodeLlama, Prolog',
+        techStack : 'Python, Flask, HTML, CSS, Javascript, Render',
         description: 'An intelligent academic planning tool designed to help students take control of their GPA journey. With an easy-to-use interface, it allows users to simulate future grades, calculate what is needed to reach a target GPA, and understand how each course impacts their final outcome.',
         githublink: 'https://github.com/ptk18/KMITL-GPA-Simulator',
         viewlink: 'https://kmitl-gpa-simulator.onrender.com/',
