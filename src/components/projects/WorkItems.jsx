@@ -36,7 +36,14 @@ const WorkItems = ({item}) => {
                           <i className="uil uil-link-h services__modal-githublink-icon"></i>
                           <a href={item.githublink} className="services__modal-githublink">github</a>
                         </div>
-
+                        <div className="services__modal-project-link">  
+                          {item.viewlink && (
+                            <>
+                              <i className="uil uil-globe services__modal-viewlink-icon"></i>
+                              <a href={item.viewlink} className="services__modal-viewlink">live demo</a>
+                            </>
+                          )}
+                        </div>
 
 
                     </div>

@@ -2,7 +2,10 @@ import React from 'react';
 import "./skills.css";
 import Frontend from './Frontend';
 import Backend from './Backend';
-import MLDS from './MLDS';
+import MLDSAITools from './MLDSAITools';
+import SoftwareEngineering from './SoftwareEngineering';
+import MLDL from './MLDL';
+import DataScience from './DataScience';
 
 const Skills = () => {
   return (
@@ -11,9 +14,16 @@ const Skills = () => {
         <span className="section__subtitle">What I'm good at</span>
 
         <div className="skills__container container grid">
+            <SoftwareEngineering />
+            <MLDL />
+            <DataScience />
+        </div>
+        <br/>
+        <span className="section__subtitle">Tech Stack</span>
+        <div className="skills__container container grid">
             <Frontend />
             <Backend />
-            <MLDS />
+            <MLDSAITools />
         </div>
     </section>
   );

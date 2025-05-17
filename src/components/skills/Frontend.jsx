@@ -1,4 +1,15 @@
-import React from 'react'
+import React from 'react';
+import htmlImg from "../../assets/html.png";
+import cssImg from "../../assets/css.png";
+import reactImg from "../../assets/react.png";
+import svelteImg from "../../assets/svelte.png";
+import gitImg from "../../assets/git.png";
+import figmaImg from "../../assets/figma.png";
+import tailwindImg from "../../assets/tailwind.png";
+import bootstrapImg from "../../assets/bootstrap.png";
+import nextjsImg from "../../assets/nextjs.png";
+
+
 
 const Frontend = () => {
   return (
@@ -8,58 +19,59 @@ const Frontend = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">HTML</h3>
-                        <span className="skills__level">Advanced</span>
+                        <img src={htmlImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">CSS</h3>
-                        <span className="skills__level">Advanced</span>
+                        <img src={cssImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">JavaScript</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <img src={nextjsImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
             </div>
 
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">Git</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <img src={reactImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">Sveltekit</h3>
-                        <span className="skills__level">Basic</span>
+                        <img src={svelteImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
 
                 <div className="skills__data">
-                    <i class="bx bx-badge-check"></i>
-
                     <div>
-                        <h3 className="skills__name">React</h3>
-                        <span className="skills__level">Basic</span>
+                        <img src={tailwindImg} alt="" className="tech_stack_Img" width="40" height="40" />
+                    </div>
+                </div>
+            </div>
+            <div className="skills__group">
+                <div className="skills__data">
+                    <div>
+                        <img src={bootstrapImg} alt="" className="tech_stack_Img" width="40" height="40" />
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <div>
+                        <img src={figmaImg} alt="" className="tech_stack_Img" width="40" height="40" />
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <div>
+                        <img src={gitImg} alt="" className="tech_stack_Img" width="40" height="40" />
                     </div>
                 </div>
             </div>

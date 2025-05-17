@@ -14,6 +14,7 @@ import Project13 from "../../assets/portfolio_ver1.png";
 import Project14 from "../../assets/book_recommendation_sys.jpg";
 import Project15 from "../../assets/compiler_construction.png";
 import Project16 from "../../assets/javis2.jpg";
+import Project17 from "../../assets/gpaSimulator.png";
 
 
 export const projectsData = [
@@ -143,6 +144,7 @@ export const projectsData = [
         techStack : 'HTML, CSS, JavaScript',
         description: 'This project is a responsive website created using HTML, CSS, and JavaScript, showcasing my expertise in front-end UI design with smooth and intuitive animations. The site provides comprehensive information about me, effectively highlighting my skills, projects, and achievements to create a professional online presence.',
         githublink: 'https://github.com/ptk18/Portfolio',
+        viewlink: 'https://ptk18.github.io/Portfolio/',
 
     },
     {
@@ -171,6 +173,16 @@ export const projectsData = [
         techStack : 'Python, Nextjs, FastAPI, SQLite, HuggingFace CodeLlama, Prolog',
         description: 'JAVIS is an intelligent voice-driven coding assistant inspired by the concept of JARVIS from Marvel’s Ironman. It takes code inputs and converts them into human-friendly commands. Users can then use commands to perform specific tasks, making coding more intuitive and interactive.',
         githublink: 'https://github.com/ptk18/JAVIS_teamprj',
+    },
+    {
+        id: 17,
+        image: Project17,
+        title: 'KMITL GPA Simulator',
+        category: 'Web',
+        techStack : 'Python, Nextjs, FastAPI, SQLite, HuggingFace CodeLlama, Prolog',
+        description: 'An intelligent academic planning tool designed to help students take control of their GPA journey. With an easy-to-use interface, it allows users to simulate future grades, calculate what is needed to reach a target GPA, and understand how each course impacts their final outcome.',
+        githublink: 'https://github.com/ptk18/KMITL-GPA-Simulator',
+        viewlink: 'https://kmitl-gpa-simulator.onrender.com/',
     },
 
 ];

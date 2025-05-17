@@ -107,12 +107,12 @@
     padding: 0 1.5rem;
 }
 
-.services__modal-githublink-icon {
+.services__modal-githublink-icon, .services__modal-viewlink-icon {
     color: navy;
 }
 
-.services__modal-githublink {
-    padding: 0 0.5rem;
+.services__modal-githublink, .services__modal-viewlink {
+    padding: 0.15rem 0.5rem;
     font-size: var(--small-font-size);
     cursor: pointer;
     color: navy;

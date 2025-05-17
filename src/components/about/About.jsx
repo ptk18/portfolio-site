@@ -17,7 +17,7 @@ const About = () => {
                     <p className="about__description">A problem solver at heart, I combine my software engineering knowledge with my data science expertise to tackle complex challenges. I am adept at identifying data-driven opportunities, developing effective solutions, and building robust, scalable systems.</p>
                 
                     <a download="" href="https://drive.google.com/file/d/1j03K1JA-5BRvgS4PxSpqiV2EtrSfWAcG/view?usp=sharing" className="button button--flex">
-                        View my CV
+                        View my CV 
                         <svg
                         class="button__icon"
                         xmlns="http://www.w3.org/2000/svg"
