@@ -76,7 +76,7 @@ const Info = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    <h3 className="about__title">Teaching Assitant</h3>
+                                    <h3 className="about__title">Teaching Assistant</h3>
                                     <span className="about__subtitle">Software Engineering Principle Course, Software Engineering, KMITL</span><br />
                                     <span className="about__subtitle">Dec 2024 - Mar 2025</span>
                                 </p>
@@ -97,7 +97,7 @@ const Info = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    <h3 className="about__title">Teaching Assitant</h3>
+                                    <h3 className="about__title">Teaching Assistant</h3>
                                     <span className="about__subtitle">Introduction To Logic Course, Software Engineering, KMITL</span><br />
                                     <span className="about__subtitle">Jul 2023 - Nov 2023</span>
                                 </p>
@@ -108,9 +108,9 @@ const Info = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    <h3 className="about__title">English Language Teaching Assitant</h3>
+                                    <h3 className="about__title">English Language Teaching Assistant</h3>
                                     <span className="about__subtitle">Teacher Su International School, Myanmar</span><br />
-                                    <span className="about__subtitle">May 202 - May 2023</span>
+                                    <span className="about__subtitle">May 2022 - May 2023</span>
                                 </p>
                                 
                             </li>
