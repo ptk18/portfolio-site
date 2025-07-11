@@ -66,9 +66,39 @@ const Info = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
+                                    <h3 className="about__title">Data Scientist</h3>
+                                    <span className="about__subtitle">PropTech Builders</span><br />
+                                    <span className="about__subtitle">Jul 2025 - Present</span>
+                                </p>
+                                
+                            </li>
+                            <br />
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
+                                    <h3 className="about__title">Teaching Assistant</h3>
+                                    <span className="about__subtitle">AI Programming Course, Software Engineering, KMITL</span><br />
+                                    <span className="about__subtitle">Jul 2025 - Present</span>
+                                </p>
+                                
+                            </li>
+                            <br />
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
+                                    <h3 className="about__title">Teaching Assistant</h3>
+                                    <span className="about__subtitle">Circuits & Electronics Course, Software Engineering, KMITL</span><br />
+                                    <span className="about__subtitle">Jul 2025 - Present</span>
+                                </p>
+                                
+                            </li>
+                            <br />
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
                                     <h3 className="about__title">Data Scientist (Intern)</h3>
                                     <span className="about__subtitle">PropTech Builders</span><br />
-                                    <span className="about__subtitle">Apr 2025 - Present</span>
+                                    <span className="about__subtitle">Apr 2025 - Jun 2025</span>
                                 </p>
                                 
                             </li>
