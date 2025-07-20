@@ -72,6 +72,15 @@ const Info = () => {
                                 </p>
                                 
                             </li>
+                            <li className="services__modal-service">
+                                <i className="uil uil-suitcase services__modal-icon"></i>
+                                <p className="services__modal-info">
+                                    <h3 className="about__title">Research Assistant</h3>
+                                    <span className="about__subtitle">Language Understanding Laboratory</span><br />
+                                    <span className="about__subtitle">June 2025 - Present</span>
+                                </p>
+                                
+                            </li>
                             <br />
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
