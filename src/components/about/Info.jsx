@@ -52,7 +52,7 @@ const Info = () => {
             <div className="about__box">
                 <i class="uil uil-briefcase-alt about__icon"></i>
                 <h3 className="about__title">Experience</h3>
-                <span className="about__subtitle">4+</span>
+                <span className="about__subtitle">5+</span>
                 <br />
                 <span className="about__details__button" onClick={() => toggleTab(2)}>View More<i className="uil uil-arrow-right about__details__button-icon"></i></span>
                 <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
@@ -72,6 +72,7 @@ const Info = () => {
                                 </p>
                                 
                             </li>
+                            <br />
                             <li className="services__modal-service">
                                 <i className="uil uil-suitcase services__modal-icon"></i>
                                 <p className="services__modal-info">
